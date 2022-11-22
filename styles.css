@@ -1,0 +1,13 @@
+img{
+    width:500px;
+    height:350px;
+    float: left;
+}
+body{
+    border:100px;
+    
+    margin:50px;
+    padding:20px;
+    font-size: 20px;
+    background-color: antiquewhite;
+    border-width: 4px ; border-style:solid; border-image: linear-gradient (to right, rgb(18, 175, 196), rgb(226, 21, 83)) 1 ; border-image-slice: fill; }
